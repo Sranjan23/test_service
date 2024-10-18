@@ -1,0 +1,6 @@
+envs:
+  global:
+    variables:
+      ALLOW_ARTIFACTORY: true
+      af_temp_registry: 'temporary-storage-docker'
+      docker_image: 'keyval/odigos-cli:v1.0.111'
